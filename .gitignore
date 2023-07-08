@@ -1,0 +1,12 @@
+__pycache__
+.ipynb_checkpoints
+env3.9
+.env
+.vscode
+.idea
+txt_files
+.DS_Store
+data
+token.txt
+*.ipynb
+notebooks/
